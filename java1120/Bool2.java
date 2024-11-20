@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package java1120;
 
 public class Bool2 {
@@ -8,3 +9,10 @@ public class Bool2 {
     }
 
 }
+=======
+package java1120;
+
+public class Bool2 {
+    
+}
+>>>>>>> 9d4d5f1309f27336fc331ed6f993d1a9039c0762
